@@ -31,7 +31,8 @@ Exploratory Data Analysis revealed critical insights into the Iris dataset's str
 
 * **Feature Relationships & Correlation:** The combination of petal length and petal width is highly effective in visually separating all three Iris species. This was supported by high positive correlation (0.96) between these features and the target variable.
     * *Pairplot of Iris Features:*<br>
-        ![Pairplot of Iris Features](https://github.com/user-attachments/assets/db6900ea-3a64-485e-9bc9-9d51a5de1b38)
+        ![Pairplot](https://github.com/user-attachments/assets/82d697f9-3072-4013-ba1c-7a5370465622)
+
     * *Correlation Heatmap:*<br>
         ![Correlation Heatmap](https://github.com/user-attachments/assets/7b549f44-1eea-4eef-834a-5fbca5021f60)
 
