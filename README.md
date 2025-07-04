@@ -20,17 +20,20 @@ The project followed a systematic machine learning pipeline:
 Exploratory Data Analysis revealed critical insights into the Iris dataset's structure and feature relationships:
 
 * **Balanced Dataset:** The Iris dataset features a perfectly balanced class distribution (50 samples per species), ensuring unbiased classification.
-    * Iris Species Distribution![image](https://github.com/user-attachments/assets/4688b359-1f42-427d-9e8a-90f017e6e560)
- 
+    * *Iris Species Distribution:*
+        ![Iris Species Distribution](https://github.com/user-attachments/assets/4688b359-1f42-427d-9e8a-90f017e6e560)
 
 * **Feature Distributions:** Distinct feature distributions, especially in petal length and width, clearly separate species, with Setosa being notably smaller.
-    * Histograms![image](https://github.com/user-attachments/assets/9a3ebb75-e0ea-466b-8712-97aa6400cb61)
-    * Boxplots![image](https://github.com/user-attachments/assets/0827ad11-19bf-41c4-a50d-91e23a97182a)
-
+    * *Histograms:*
+        ![Histograms](https://github.com/user-attachments/assets/9a3ebb75-e0ea-466b-8712-97aa6400cb61)
+    * *Boxplots:*
+        ![Boxplots](https://github.com/user-attachments/assets/0827ad11-19bf-41c4-a50d-91e23a97182a)
 
 * **Feature Relationships & Correlation:** The combination of petal length and petal width is highly effective in visually separating all three Iris species. This was supported by high positive correlation (0.96) between these features and the target variable.
-    * Pairplot of Iris Features![image](https://github.com/user-attachments/assets/db6900ea-3a64-48e5-9bc9-9d51a5de1b38)
-    * Correlation Heatmap![image](https://github.com/user-attachments/assets/7b549f44-1eea-4eef-834a-5fbca5021f60)
+    * *Pairplot of Iris Features:*
+        ![Pairplot of Iris Features](https://github.com/user-attachments/assets/db6900ea-3a64-485e-9bc9-9d51a5de1b38)
+    * *Correlation Heatmap:*
+        ![Correlation Heatmap](https://github.com/user-attachments/assets/7b549f44-1eea-4eef-834a-5fbca5021f60)
 
 
 ## ✨ Model Performance and Comparative Analysis
